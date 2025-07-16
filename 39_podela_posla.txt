@@ -4,10 +4,10 @@
 
 3. File redirect - Dusan Milovanovic
 
-4. Pravljenje redirecta na stranici da bi se dohvatio sadrzaj localhost/admin/nesto. Slicno kao prva dva samo drugaciji nacin za izbeci.
-	Zaobilazi se url parser koriscenjem redirect polja.
+4. DNS rebinding - Miloš Stojković
 
-5. todo
+5. Pravljenje redirecta na stranici da bi se dohvatio sadrzaj localhost/admin/nesto. Slicno kao prva dva samo drugaciji nacin za izbeci.
+	Zaobilazi se url parser koriscenjem redirect polja.
 
 6. todo
 
