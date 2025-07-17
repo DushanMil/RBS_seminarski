@@ -1,15 +1,15 @@
-1. Blacklist izazov - Dusan Milovanovic
+1. Blacklist izazov - Dušan Milovanović
 
-2. Whitelist izazov - Dusan Milovanovic
+2. Whitelist izazov - Dušan Milovanović
 
-3. File redirect - Dusan Milovanovic
+3. File redirect - Dušan Milovanović
 
 4. DNS rebinding - Miloš Stojković
 
-5. Pravljenje redirecta na stranici da bi se dohvatio sadrzaj localhost/admin/nesto. Slicno kao prva dva samo drugaciji nacin za izbeci.
-	Zaobilazi se url parser koriscenjem redirect polja.
+5. Port Scan - Nikola Novaković
 
-6. todo
+6. Pravljenje redirecta na stranici da bi se dohvatio sadrzaj localhost/admin/nesto. Slicno kao prva dva samo drugaciji nacin za izbeci.
+	Zaobilazi se url parser koriscenjem redirect polja.
 
 7. todo
 
