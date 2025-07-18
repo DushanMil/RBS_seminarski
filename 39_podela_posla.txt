@@ -8,8 +8,7 @@
 
 5. Port Scan - Nikola Novaković
 
-6. Pravljenje redirecta na stranici da bi se dohvatio sadrzaj localhost/admin/nesto. Slicno kao prva dva samo drugaciji nacin za izbeci.
-	Zaobilazi se url parser koriscenjem redirect polja.
+6. Todo
 
 7. todo
 
@@ -18,10 +17,3 @@
 9. todo
 
 10. todo
-
--------------------
-Bonus:
-
-11. CVE-2023-32786 - neki servis gde se moze isprobati napad.
-
-12.
