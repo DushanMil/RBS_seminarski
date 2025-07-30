@@ -8,3 +8,4 @@ services:
       - 80
     environment:
       - FLAG=SEE{8E16B44BA349791FA4F6F5E7ECDFB}
+      
