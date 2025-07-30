@@ -16,4 +16,4 @@
 
 9. File URL napad sa kodiranjem - Ana Marija Ognjenović
 
-10. todo
+10. Redirect + IPv6 Bypass - Miloš Stojković
